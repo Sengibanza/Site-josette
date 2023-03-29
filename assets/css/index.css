@@ -16,11 +16,14 @@ ul{
    
 }
 
-ul li a{
-    margin: 1em 2em;
-    display: block;
-    
-    color: black;
+
+    ul li a {
+        padding: 1em 2em;
+        display: block;
+        text-transform: uppercase;
+        color: rgb(255, 94, 0);
+        text-decoration: none;
+   
 }
 
 .d-flex{
